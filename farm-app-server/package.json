@@ -1,0 +1,19 @@
+{
+  "name": "farm-app-server",
+  "version": "1.0.0",
+  "description": "Server for Farm Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "server is running"
+  },
+  "author": "Sishir Pokhrel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "knex": "^0.20.3",
+    "mysql": "^2.17.1"
+  }
+}
